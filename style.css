@@ -1,0 +1,218 @@
+body{
+   font-family:Arial, Helvetica, sans-serif;
+    margin: 0;
+    background-color: snow;
+}
+.container{
+    margin: 0 auto;
+    width: 85%;
+    
+}
+.half_side_left{
+    float:left;
+    width: 44%;
+    padding-right: 4%;
+    padding-top: 50px;   
+}
+
+.half_side_right{
+    float: right;
+    width: 40%;
+    padding-right: 4%;
+    padding-top: 50px;
+}
+.half_side_right img{
+    width: 100%;
+
+}
+.half_side_left img{
+    width: 100%;
+}
+
+p{
+    font-size: 20px;
+    text-align: justify;
+}
+#hello{
+    color:gray;
+    font-size: 20px;
+}
+#name{
+    color:#F86861;
+    font-size: 50px;
+}
+p{
+    color: rgb(108, 110, 112);
+}
+
+.link_button{
+    text-align: center;
+    text-decoration: none;
+    font-weight: 700;
+    background-color: #F86861;
+    color: white;
+    padding: 20px 40px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+section{
+    padding-bottom: 200px;
+    height: 400px; 
+    
+    display: block;
+}
+.lates_work{
+    float: left;
+    width: 29%;
+    margin-left:2%;
+    margin-right: 2%;
+    background-color: snow;  
+    border-radius: 10px;  
+    text-align: center;
+    box-shadow: 5px 5px 20px gray;
+}
+.lates_work img{
+    width: 100%;
+}
+.lates_work p{
+    font-size: 17px;
+    padding: 5px 15px;
+    text-align: justify;
+}
+.latest_project{
+    color: #261A36;
+    text-align: center;
+    
+}
+
+.work_inquiry{
+    width: 80%;
+    margin: 0 auto;
+    background-image: url("shapes/Group_33094_1.png");
+    height: 80%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+}
+
+
+.work_inquiry_left{
+    width: 40%;
+    float: left;
+    text-align: center;
+    
+}
+
+.work_inquiry_right{
+    width: 40%;
+    float: right;
+    text-align: center;
+    
+}
+.work_inquiry_text{
+    padding-top: 70px;
+    font-size: 30px;
+    font-weight: 700;
+    color:white;
+    text-align: center;
+}
+.work_inq_button{
+    padding-top: 100px;
+    font-size: 16px;
+    font-weight: 700;
+    color:white;
+    text-align: center;
+    padding-left: 70px;
+}
+.chat_button{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    padding:15px 15px;
+    background-color: #F76761;
+}
+.social{
+    margin: 50px auto;
+    width: 500px;
+    padding-top: 200px;
+    height: 200px;
+    text-align: center;
+}
+.social h1{
+    font-size: 18px;
+}
+.social img{
+    height: 50px;
+    width: 50px;
+    padding-right: 26px;
+    align-items: center;
+}
+.social a{
+    font-size: 25px;
+}
+#social_link{
+    height: 200px;
+}
+.social_section{
+    height: 200px;
+    background-color: gray;
+}
+.my_work{
+    background-color: powderblue;
+}
+nav{
+    height: 50px;
+    
+}
+nav ul{
+    float: right;   
+    margin-right: 5%;
+    
+}
+nav ul li{
+    display: inline-block;
+    list-style-type:none;
+    padding: 5px 15px;
+}
+nav a{
+    text-decoration: none;
+    color: dimgray;
+    font-weight: 700;
+}
+.my_workflow h1{
+    text-align: center;
+    font-size: 30px;
+    font-family:monospace;
+    font-weight: 900;
+    
+}
+.my_workflow p{
+    text-align: center;
+}
+
+.sector{
+    width: 25%;
+    float: left;
+    margin-right: 6%;
+    padding-right: 2%;
+    text-align: center;
+    margin-bottom: 20px;
+    box-shadow: 10px 10px 40px gray;
+    margin-top: 20px;
+}
+.sector p{
+    font-size: 15px;
+    padding-left: 10px;
+}
+.sector img{
+    width: 20%;
+    padding-left: 40%;
+    padding-right: 40%;    
+    margin: 0 auto;
+}
+.work_sector{
+    margin-top: 10%;
+}
